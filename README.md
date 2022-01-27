@@ -5,7 +5,11 @@ yaklaşımları karşılaştırmaktır. Denetimli makine öğrenmesi algoritmala
 Multinominal Navie Bayes (MNB) sınıflandırıcısı, Support Vector Machine (SVM) sınıflandırıcısı ve Logistic Regression (LR) sınıflandırıcısı kullanılmıştır. 
 Sözlük tabanlı tekniklerden Valence Aware Dictionary and Sentiment Reasoner (VADER) ve TextBlob kullanılmıştır. 
 Stanford IMDB Movie Rewiew veri kümesi üzerinde belirtilen algoritma ve tekniklerin performansını araştırılmıştır.
-
+</br>
+</br>
+Veri kümesi bu linkten indirilebilir: https://ai.stanford.edu/~amaas/data/sentiment/
+</br>
+</br>
 Makine öğrenme algoritmaları üzerinde aşağıdaki teknikler karşılaştırılmıştır;
 <ul>
 <li>TF-IDF ve Bags-of-words</li>
@@ -20,7 +24,7 @@ Sözlük tabanlı araçlar üzerinde aşağıdaki teknik karşılaştırılmış
 <li>Lemmatization, Stemming ve Temel(veri ön işlemesiz)</li>
 </ul>
 </br>
-Support vector machine ve Vader için sonuç;
+Support vector machine ve Vader için sonuç aşağıda gösterilmiştir. Diğer sonuçlar için kod dosyalarına bakılabilir.
 </br>
 </br>
 
